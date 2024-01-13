@@ -1,0 +1,88 @@
+    1  cd desktop
+    2  cd project
+    3  ls
+    4  ls -a
+    5  ls .git
+    6  touch names.txt
+    7  git status
+    8  git add names.txt
+    9  git status
+   10  git commit -m "names.txt file added"
+   11  git status
+   12  code names.txt
+   13  vi names.txt
+   14  cat names.txt
+   15  git status
+   16  git add .
+   17  git status
+   18  git restore --staged names.txt
+   19  git status
+   20  git add .
+   21  git status
+   22  mkdir hp12
+   23  rmdir hp12
+   24  mkdir arun
+   25  rmdir arun
+   26  help grip
+   27  man grip
+   28  pwd
+   29  ls
+   30  ls --help
+   31  ls-a
+   32  ls -a
+   33  cd desktop
+   34  pwd
+   35  mkdir locobuzz
+   36  man mkdir
+   37  cd ..
+   38  pwd
+   39  cd locobuzz
+   40  cd desktop'
+cd desktop
+   41  clear
+   42  cd desktop
+   43  touch abc.php
+   44  mkdir abc.php
+   45  ls -a
+   46  man grep
+   47  man ls
+   48  rm abc.php
+   49  ls
+   50  cd ..
+   51  cd desktop
+   52  cd locobuzz
+   53  cd ..
+   54  rmdir locobuzz/
+   55  ls
+   56  mkdir locobuzz
+   57  touch abc.txt
+   58  cd locobuzz
+   59  ls
+   60  ls
+   61  touch cde.txt
+   62  ls
+   63  rmdir locobuzz
+   64  nano cde.txt
+   65  cat cde.txt 
+   66  nano cde.txt
+   67  cat cde.txt
+   68  head cde.txt
+   69  cd ..
+   70  mkdir temp_locobuzz
+   71  mv temp_locobuzz/ locobuzz/
+   72  cd locobuzz/
+   73  ls
+   74  cat cde.txt
+   75  ls
+   76  mv cde.txt temp_locobuzz/
+   77  cd temp_locobuzz/
+   78  ls
+   79  ls
+   80  mkdir temp
+   81  ls
+   82  cp cde.txt temp/
+   83  ls
+   84  cd temp
+   85  ls
+   86  history
+   87   history > basic_commands.txt
